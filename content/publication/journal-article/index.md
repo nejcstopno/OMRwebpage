@@ -14,7 +14,7 @@ date: '2020-01-02T00:00:00Z'
 doi: ' 10.3389/fmicb.2020.00120'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2020-01-02T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Frontiers in Microbiology, 1*(1)'
+publication: '*Frontiers in Microbiology'
 publication_short: 'Front. Microbiol.'
 
 abstract: Typical disease-associated microbiota changes are widely studied as potential diagnostic or therapeutic targets. Our aim was to analyze a hospitalized cohort including various gastroenterological pathologies in order to fine-map the gut microbiota dysbiosis. Bacterial (V3 V4) and fungal (ITS2) communities were determined in 121 hospitalized gastrointestinal patients from a single ward and compared to 162 healthy controls. Random Forest models implemented in this study indicated that the gut community structure is in most cases not sufficient to differentiate the subjects based on their underlying disease. Instead, hospitalized patients in our study formed three distinct disease non-related clusters (C1, C2, and C3), partially explained by antibiotic use. Majority of the subjects (cluster C1) closely resembled healthy controls, showing only mild signs of community disruption; most significantly decreased in this cluster were Faecalibacterium and Roseburia. The remaining two clusters (C2 and C3) were characterized by severe signs of dysbiosis; cluster C2 was associated with an increase in Enterobacteriaceae and cluster C3 by an increase in Enterococcus. According to the cluster affiliation, subjects also showed different degrees of inflammation, most prominent was the positive correlation between levels of C-reactive protein and the abundance of Enterococcus.
