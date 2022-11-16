@@ -1,13 +1,17 @@
 ---
-title: 'An example journal article'
+title: 'Distinct Types of Gut Microbiota Dysbiosis in Hospitalized Gastroenterological Patients Are Disease Non-related and Characterized With the Predominance of Either Enterobacteriaceae or Enterococcus'
 authors:
-  - admin
-  - Robert Ford
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
-doi: ''
+  - Aleksander Mahnic
+  - Martin Breskvar
+  - Saso Dzeroski
+  - Pavel Skok
+  - Spela Pintar
+  - Maja Rupnik
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
+date: '2020-01-02T00:00:00Z'
+doi: ' 10.3389/fmicb.2020.00120'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -19,13 +23,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ''
+publication: '*Frontiers in Microbiology, 1*(1)'
+publication_short: 'Front. Microbiol.'
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Typical disease-associated microbiota changes are widely studied as potential diagnostic or therapeutic targets. Our aim was to analyze a hospitalized cohort including various gastroenterological pathologies in order to fine-map the gut microbiota dysbiosis. Bacterial (V3 V4) and fungal (ITS2) communities were determined in 121 hospitalized gastrointestinal patients from a single ward and compared to 162 healthy controls. Random Forest models implemented in this study indicated that the gut community structure is in most cases not sufficient to differentiate the subjects based on their underlying disease. Instead, hospitalized patients in our study formed three distinct disease non-related clusters (C1, C2, and C3), partially explained by antibiotic use. Majority of the subjects (cluster C1) closely resembled healthy controls, showing only mild signs of community disruption; most significantly decreased in this cluster were Faecalibacterium and Roseburia. The remaining two clusters (C2 and C3) were characterized by severe signs of dysbiosis; cluster C2 was associated with an increase in Enterobacteriaceae and cluster C3 by an increase in Enterococcus. According to the cluster affiliation, subjects also showed different degrees of inflammation, most prominent was the positive correlation between levels of C-reactive protein and the abundance of Enterococcus.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Our aim was to analyze a hospitalized cohort including various gastroenterological pathologies in order to fine-map the gut microbiota dysbiosis using bacterial (V3 V4) and fungal (ITS2) primer pairs.
 
 tags:
   - Source Themes
@@ -33,15 +37,15 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+   url: "https://www.frontiersin.org/articles/10.3389/fmicb.2020.00120/full"
+# url_pdf: 
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
