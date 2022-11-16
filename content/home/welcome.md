@@ -8,7 +8,8 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   OMR  
-  Research Group
+subtitle: |
+  Research Group @NLZOH
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +21,4 @@ design:
 
 <br>
 
-The Department for microbiological research **(OMR)** at the National laboratory of health, environment and food has been a center of excellence for microbiome research. Department is lead by Prof. Maja Rupnik since 2004. 
+The Department of microbiological research **(OMR)** at the National laboratory of health, environment and food is a center of excellence for microbiome research. We are developing diverse approaches to study C. difficile interactions with gut microbiota. The methodological knowledge is also transferred to analyses of complex populations in clinical relevant and other ecosystems. Department is lead by Prof. Maja Rupnik since 2004. 
