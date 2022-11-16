@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 吳恩達
+title: Maja Rupnik
 
 # Username (this should match the folder name)
 authors:
   - 吳恩達
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Department Lead and Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Maribor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
