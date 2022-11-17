@@ -11,12 +11,12 @@ design:
   # Automatically transition through slides?
   loop: false
   # Duration of transition between slides (in ms)
-  interval: 2000
+  interval: 500
 
 content:
   slides:
     - title: _C. difficile_ clinical biology and ecology
-      content: Take a look at what we're working on...
+      content: 
       align: center
       background:
         position: right
