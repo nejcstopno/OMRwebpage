@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Department Lead and Professor
+role: Department Head and Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Maribor
+  - name: NLZOH/University of Maribor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,6 +70,6 @@ user_groups:
 
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Maja Rupnik is head of Department of microbiological research at the National laboratory of health, environment and food (NLZOH) in Maribor, Slovenia. Since 2005 she has been a Professor for Microbiology at the Faculty of Medicine, University of Maribor. She is a worldwide recognized expert on _Clostridium difficile_ and one of the main organizers of traditional event International _Clostridium difficile_ Symposium (www.icds.si). Infection with _C. difficile_ is typically associated with disturbed gut microbiota and her group is developing diverse approaches to study _C. difficile_ interactions with microbiota. The methodological knowledge is also transferred to analyses of complex populations in clinical relevant and other materials. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She was the president of Slovenian microbiological society from 2016 to 2020. The honors and awards she obtained for her work include Alexander von Huboldt grant , ESCMID/bioMerieux Award for Advances in Clinical Microbiology and national award Zois Certificate of Recognition for exceptional scientific achievements in microbiology.
