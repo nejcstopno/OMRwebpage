@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: University Courses
 
 # Listing view
 view: compact
