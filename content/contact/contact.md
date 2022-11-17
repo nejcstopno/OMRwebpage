@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: maja(dot)rupnik(at)nlzoh(dot)si
+  phone: +386(0)2 4602 346
   address:
     street: Prvomajska ulica 1
     city: Maribor
@@ -25,8 +25,8 @@ content:
     country: Slovenia
     country_code: SVN
   coordinates:
-    latitude: '46.1491664'
-    longitude: '14.9860106'
+    latitude: '46.53692260967874'
+    longitude: '15.659949386571398'
   directions: Enter Building and take the stairs to Office 200 on Floor 2.
   office_hours:
     - 'Monday 10:00 to 13:00'
