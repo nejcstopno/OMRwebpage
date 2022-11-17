@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: maja(dot)rupnik(at)nlzoh(dot)si
+  email: 
   phone: +386(0)2 4602 346
   address:
     street: Prvomajska ulica 1
