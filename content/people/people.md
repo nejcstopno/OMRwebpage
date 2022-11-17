@@ -19,7 +19,7 @@ content:
     - Principal Investigator
     - Researchers
     - PhD Students
-    - Assistents
+    - Assistants
     - Visitors
     - Alumni
 design:
