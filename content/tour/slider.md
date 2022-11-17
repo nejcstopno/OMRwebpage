@@ -24,7 +24,7 @@ content:
         brightness: 0.7
         media: microbes.jpg
     - title: Gut microbiome
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      content: Severe disturbace in gut microbiome can lead to dysbiosis which has sever consequeces for the health of the host.  
       align: left
       background:
         position: center
@@ -38,7 +38,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: covid.jpeg
       link:
         icon: graduation-cap
         icon_pack: fas
