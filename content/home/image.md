@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: new_nlzoh.jpg
+    image: new_nlzoh.jpeg
     image_darken: 0
     image_parallax: false
     image_position: center
