@@ -10,7 +10,7 @@ role: Senior Scientist/Assistant professor
 
 # Organizations/Affiliations
 organizations:
-  - name: NLZOH
+  - name: NLZOH/University of Maribor
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
